@@ -1,0 +1,12 @@
+state,forecast_2026_tonnes,observations,status
+Andhra Pradesh,153871.51,12,trend model
+Goa,20043.04,13,trend model
+Gujarat,647282.85,13,trend model
+Karnataka,565950.77,13,trend model
+Kerala,601109.77,13,trend model
+Maharashtra,212097.81,13,trend model
+Odisha,,1,insufficient historical years
+Orissa,151641.95,12,trend model
+Pondicherry,35607.79,12,trend model
+Puducherry,,1,insufficient historical years
+West Bengal,226965.62,13,trend model
